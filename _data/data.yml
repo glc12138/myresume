@@ -8,18 +8,18 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: 李诚
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: glc12138@gmail.com
+    phone: +86 18067958405
+    timezone: #America/Cancun Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
+    website: #blog.webjeda.com #do not add http://
+    linkedin: #alandoe
+    xing: #alandoe
     github: sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -30,7 +30,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
+    语言:
       title: Languages
       info:
         - idiom: English
